@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NRF24L01_Breakout_Edge
+D Ultra low power 2.4GHz RF Transceiver, Carrier PCB
+K Low Power RF Transciever breakout carrier
+$ENDCMP
+#
+#End Doc Library

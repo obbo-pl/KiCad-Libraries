@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS54331
+D 3A, 28V Input, Step Down DC-DC Converter With Eco-mode
+K Step Down DC-DC Converter
+F http://www.ti.com/lit/ds/symlink/tps54331.pdf
+$ENDCMP
+#
+#End Doc Library

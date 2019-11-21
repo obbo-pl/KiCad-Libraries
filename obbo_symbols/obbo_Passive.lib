@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# WirePad
+#
+DEF WirePad TP 0 0 N Y 1 F N
+F0 "TP" -100 50 50 H V R CNN
+F1 "WirePad" 0 -100 50 H V C CNN
+F2 "obbo_footprints:SolderWirePad_single_SMD_3x8mm" 200 200 60 H I L CNN
+F3 "" 200 300 60 H I L CNN
+$FPLIST
+ pad*
+ pin*
+ *WirePad*
+$ENDFPLIST
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# bead
+#
+DEF bead B 0 0 N Y 1 F N
+F0 "B" 0 200 50 H V C CNN
+F1 "bead" 0 150 50 H V C CNN
+F2 "" 0 0 50 V I C CNN
+F3 "" 0 0 50 V I C CNN
+DRAW
+S 100 -40 -100 40 1 1 10 F
+X ~ 1 -150 0 50 R 50 50 1 1 P
+X ~ 2 150 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

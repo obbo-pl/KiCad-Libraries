@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AVR-PDI-4
+D Atmel 4-pin PDI connector
+K Connector ARV PDI
+$ENDCMP
+#
+#End Doc Library
