@@ -28,9 +28,9 @@ Crystal:
 - SMD 5032 4Pin 5.0x3.2mm
 
 Fuse:
-- 1812 4532Metric Pad1.30 x 3.40mm
-- 2920 7451Metric Pad2.10 x 5.45mm
-- PTC THT L6.0mm W2.5mm P5.08mm
+- SMD 1812 4532Metric Pad1.30 x 3.40mm
+- SMD 2920 7451Metric Pad2.10 x 5.45mm
+- THT PTC L6.0mm W2.5mm P5.08mm
 
 Inductor:
 - SMD Ferrite_X5mm Y5mm H4mm
@@ -43,7 +43,7 @@ Connector:
 - PinHeader 3x01 P2.54mm Horizontal
 
 Switch:
-- Rotary switch coded 7x7
+- SMD Rotary switch coded 7x7
 
 Terminal Block:
 - Degson DG128-5.0-02P
