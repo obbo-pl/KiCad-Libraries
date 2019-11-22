@@ -47,4 +47,3 @@ Switch:
 
 Terminal Block:
 - Degson DG128-5.0-02P
-- Degson DG305-5.0-02P
