@@ -21,7 +21,7 @@ $ENDCMP
 $CMP AO6401A
 D P-Channel MOSFET -30V -5A 47mΩ
 K P-Channel MOSFET
-F http://aosmd.com/res/data_sheets/AO4485.pdf
+F http://aosmd.com/res/data_sheets/AO6401A.pdf
 $ENDCMP
 #
 $CMP AOD240
