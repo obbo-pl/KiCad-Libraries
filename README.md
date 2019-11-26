@@ -6,7 +6,10 @@ Connector:
 - AVR-PDI-4
 
 IC:
+- LM5117
+- LTC4011
 - TPS54331
+- TPS54331DDA
 
 Module:
 - NRF24L01 Breakout Board
@@ -22,6 +25,11 @@ Transistors:
 - AO6401A
 - AOD240
 - AOD403
+- FDS6975
+- IRF7205
+- IRF7207
+- IRF7313
+- TSM2318
 
 ### Packages 3D
 Crystal:
