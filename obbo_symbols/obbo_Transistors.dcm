@@ -36,4 +36,34 @@ K P-Channel MOSFET
 F http://aosmd.com/res/data_sheets/AOD403.pdf
 $ENDCMP
 #
+$CMP FDS6975
+D Dual P-Channel MOSFET -30V, -6A, 32mΩ
+K P-Channel MOSFET
+F https://www.onsemi.com/pub/Collateral/FDS6975-D.PDF
+$ENDCMP
+#
+$CMP IRF7205
+D P-Channel MOSFET -30V -4.6A 70mΩ
+K P-Channel MOSFET
+F http://www.irf.com/part/LEADED-30V-SINGLE-P-CHANNEL-HEXFET-POWER-MOSFET-IN-A-SO-8-PACKAGE/_/A~PB-IRF7205
+$ENDCMP
+#
+$CMP IRF7207
+D P-Channel MOSFET -20V -5.4A 60mΩ
+K P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf7207.pdf
+$ENDCMP
+#
+$CMP IRF7313
+D Dual N-Channel MOSFET 30V, 6.5A, 29mΩ
+K N-Channel MOSFET
+F http://www.irf.com/part/LEADED-30V-DUAL-N-CHANNEL-HEXFET-POWER-MOSFET-IN-A-SO-8-PACKAGE/_/A~PB-IRF7313
+$ENDCMP
+#
+$CMP TSM2318
+D N-Channel Power MOSFE 40V, 3.9A, 45mΩ
+K N-Channel MOSFET
+F https://www.taiwansemi.com/products/datasheet/TSM2318_C15.pdf
+$ENDCMP
+#
 #End Doc Library

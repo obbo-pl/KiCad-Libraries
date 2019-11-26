@@ -1,6 +1,24 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM5117
+D Wide Input Range Synchronous Buck Controller with Analog Current Monitor
+K step-down buck regulator
+F https://www.ti.com/lit/ds/symlink/lm5117.pdf
+$ENDCMP
+#
+$CMP LTC4011
+D High Efficiency Standalone Nickel Battery Charger for 1 to 16 Cells
+K NiMH NiCd battery
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf
+$ENDCMP
+#
 $CMP TPS54331
+D 3A, 28V Input, Step Down DC-DC Converter With Eco-mode
+K Step Down DC-DC Converter
+F http://www.ti.com/lit/ds/symlink/tps54331.pdf
+$ENDCMP
+#
+$CMP TPS54331DDA
 D 3A, 28V Input, Step Down DC-DC Converter With Eco-mode
 K Step Down DC-DC Converter
 F http://www.ti.com/lit/ds/symlink/tps54331.pdf
