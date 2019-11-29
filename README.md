@@ -5,8 +5,12 @@ KiCad schematic symbols and footprints.
 Connector:
 - AVR-PDI-4
 
+Diode:
+- SM6T
+
 IC:
 - LM5117
+- LT6105MS8
 - LTC4011
 - TPS54331
 - TPS54331DDA
@@ -17,6 +21,9 @@ Module:
 Passive:
 - Bead
 - WirePad
+
+Transformer:
+- Indel TSZZ 12/0xxM
 
 Transistors:
 - AO3400
@@ -41,7 +48,7 @@ Fuse:
 - THT PTC L6.0mm W2.5mm P5.08mm
 
 Inductor:
-- SMD Ferrite_X5mm Y5mm H4mm
+- SMD Ferrite X5mm Y5mm H4mm
 - SMD Ferrite X7mm Y7mm H4.5mm
 
 Module:
@@ -55,3 +62,4 @@ Switch:
 
 Terminal Block:
 - Degson DG128-5.0-02P
+- Degson DG128-5.0-03P
