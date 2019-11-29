@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SM6T
+D Bidirectional Transil SMB, range: from 6.8 V to 220 V
+K diode Transil
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Indel_TSZZ_12-003M
+D TSZZ_12-003M, 12VA, 6V 2A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-004M
+D TSZZ_12-004M, 12VA, 2 * 6V 1A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-005M
+D TSZZ_12-005M, 12VA, 9V 1.33A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-007M
+D TSZZ_12-007M, 12VA, 12V 1A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-008M
+D TSZZ_12-008M, 12VA, 2 * 12V 0.5A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-009M
+D TSZZ_12-009M, 12VA, 15V 0.8A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-010M
+D TSZZ_12-010M, 12VA, 2 * 15V 0.4A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-012M
+D TSZZ_12-012M, 12VA, 2 * 18V 0.33A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-015M
+D TSZZ_12-015M, 12VA, 24V 0.5A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+$CMP Indel_TSZZ_12-016M
+D TSZZ_12-016M, 12VA, 2 * 24V 0.25A, Cast Resin Transformer, PCB
+K 12VA PCB Transformer
+F http://www.indel.pl/e_tszz_4_16.htm
+$ENDCMP
+#
+#End Doc Library

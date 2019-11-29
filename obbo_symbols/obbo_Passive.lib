@@ -22,8 +22,8 @@ ENDDEF
 # bead
 #
 DEF bead B 0 0 N Y 1 F N
-F0 "B" 0 200 50 H V C CNN
-F1 "bead" 0 150 50 H V C CNN
+F0 "B" 0 100 50 H V C CNN
+F1 "bead" 0 -100 50 H V C CNN
 F2 "" 0 0 50 V I C CNN
 F3 "" 0 0 50 V I C CNN
 DRAW

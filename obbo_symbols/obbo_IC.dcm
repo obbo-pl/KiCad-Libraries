@@ -6,6 +6,12 @@ K step-down buck regulator
 F https://www.ti.com/lit/ds/symlink/lm5117.pdf
 $ENDCMP
 #
+$CMP LT6105MS8
+D Precision, Extended Input Range Current Sense Amplifier, MS8 PACKAGE
+K current sense
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6105fa.pdf
+$ENDCMP
+#
 $CMP LTC4011
 D High Efficiency Standalone Nickel Battery Charger for 1 to 16 Cells
 K NiMH NiCd battery
