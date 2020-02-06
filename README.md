@@ -16,7 +16,7 @@ IC:
 - TPS54331DDA
 
 Module:
-- NRF24L01 Breakout Board
+- Arduino MKR1300
 
 Passive:
 - Bead
@@ -52,7 +52,7 @@ Inductor:
 - SMD Ferrite X7mm Y7mm H4.5mm
 
 Module:
-- nRF24L01.wrl
+- nRF24L01-GT24
 
 Connector:
 - PinHeader 3x01 P2.54mm Horizontal
