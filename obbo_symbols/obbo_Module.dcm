@@ -1,8 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP NRF24L01_Breakout_Edge
-D Ultra low power 2.4GHz RF Transceiver, Carrier PCB
-K Low Power RF Transciever breakout carrier
+$CMP Ardiuno_MKR1300
+D Arduino MKR WAN 1300 (LoRa connectivity)
+K Arduino MKR WAN 1300
+F https://content.arduino.cc/assets/MKRWANV1.0_sch.pdf
 $ENDCMP
 #
 #End Doc Library
