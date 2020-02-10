@@ -56,6 +56,7 @@ Module:
 
 Connector:
 - PinHeader 3x01 P2.54mm Horizontal
+- Coaxial RF Socket SMT
 
 Switch:
 - SMD Rotary switch coded 7x7
@@ -65,3 +66,5 @@ Terminal Block:
 - Degson DG128-5.0-03P
 - Degson DG305-5.0-02P
 - Degson DG305-5.0-03P
+- Degson DG381-3.81-02P
+- Degson DG381-3.81-03P
