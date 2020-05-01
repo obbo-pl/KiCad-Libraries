@@ -53,10 +53,12 @@ Inductor:
 
 Module:
 - nRF24L01-GT24
+- u-blox MAX
 
 Connector:
 - PinHeader 3x01 P2.54mm Horizontal
 - Coaxial RF Socket SMT
+- SMA Jack, Edge Mount
 
 Switch:
 - SMD Rotary switch coded 7x7
