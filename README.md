@@ -9,14 +9,21 @@ Diode:
 - SM6T
 
 IC:
+- 74LVC161
+- 74LVC163
 - LM5117
 - LT6105MS8
 - LTC4011
+- MCP4706, MCP4716, MCP4726
 - TPS54331
 - TPS54331DDA
 
 Module:
 - Arduino MKR1300
+- ESP32-WROVER
+
+Oscillator:
+- TCVCXO-I733, TCVCXO-I734
 
 Passive:
 - Bead
@@ -45,6 +52,8 @@ Crystal:
 Fuse:
 - SMD 1812 4532Metric Pad1.30 x 3.40mm
 - SMD 2920 7451Metric Pad2.10 x 5.45mm
+
+Thermistor:
 - THT PTC L6.0mm W2.5mm P5.08mm
 
 Inductor:
@@ -53,7 +62,9 @@ Inductor:
 
 Module:
 - nRF24L01-GT24
-- u-blox MAX
+- u-blox MAX M8
+- Arduino MKR1300
+- ESP32-WROVER
 
 Connector:
 - PinHeader 3x01 P2.54mm Horizontal
