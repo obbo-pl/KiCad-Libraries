@@ -1,9 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
-FILE_NAME(
-'D:/Work/_Projekty/__Elektronika/_MyLib/KiCad-obbo/obbo_
-footprints.pretty/Transformer_Indel_TSZZ_12VA_Dual_Secondary.step',
+FILE_NAME('Transformer_Indel_TSZZ_12VA_Dual_Secondary.step',
   '2019-11-29T19:35:05',('Author'),(''),
   'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));

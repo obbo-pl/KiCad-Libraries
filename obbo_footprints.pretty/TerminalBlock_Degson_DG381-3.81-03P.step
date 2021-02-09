@@ -1,9 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
-FILE_NAME(
-'D:/Work/_Projekty/__Elektronika/_MyLib/KiCad-obbo/obbo_
-footprints.pretty/TerminalBlock_Degson_DG381-3.81-03P.step',
+FILE_NAME('TerminalBlock_Degson_DG381-3.81-03P.step',
   '2020-02-10T20:44:30',('Author'),(''),
   'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));

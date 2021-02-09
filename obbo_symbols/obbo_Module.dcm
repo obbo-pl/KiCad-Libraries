@@ -6,4 +6,40 @@ K Arduino MKR WAN 1300
 F https://content.arduino.cc/assets/MKRWANV1.0_sch.pdf
 $ENDCMP
 #
+$CMP ESP32-WROVER
+D RF Module, ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.3-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wrover_datasheet_en.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-B
+D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-E
+D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-I
+D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.3-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard IPEX antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wrover_datasheet_en.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-IB
+D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard IPEX antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-IE
+D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard IPEX antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf
+$ENDCMP
+#
 #End Doc Library

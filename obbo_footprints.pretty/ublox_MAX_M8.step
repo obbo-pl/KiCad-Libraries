@@ -1,9 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
-FILE_NAME(
-'D:/Work/_Projekty/__Elektronika/_MyLib/KiCad-obbo/obbo_
-footprints.pretty/ublox_MAX_M8.step','2020-04-27T00:25:35',('Author'),(
+FILE_NAME('ublox_MAX_M8.step','2020-04-27T00:25:35',('Author'),(
     ''),'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
 ENDSEC;

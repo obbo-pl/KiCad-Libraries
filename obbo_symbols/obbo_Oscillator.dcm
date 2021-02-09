@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCVCXO-I733
+D ILSI, 3.2 mm x 5.0 mm Ceramic Package SMD TCVCXO Clipped Sinewave
+K Oscillator TCVCXO
+F https://ilsiamerica.com/wp-content/uploads/2015/10/I533_I534_I733_I734_Series.pdf
+$ENDCMP
+#
+$CMP TCVCXO-I734
+D ILSI, 3.2 mm x 5.0 mm Ceramic Package SMD TCVCXO HCMOS
+K Oscillator TCVCXO
+F https://ilsiamerica.com/wp-content/uploads/2015/10/I533_I534_I733_I734_Series.pdf
+$ENDCMP
+#
+#End Doc Library

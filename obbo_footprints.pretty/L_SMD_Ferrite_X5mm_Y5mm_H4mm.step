@@ -1,9 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
-FILE_NAME(
-'D:/Work/_Projekty/__Elektronika/_MyLib/KiCad-obbo/obbo_
-footprints.pretty/L_SMD_Ferrit_X5mm_Y5mm_H4mm.step',
+FILE_NAME('L_SMD_Ferrit_X5mm_Y5mm_H4mm.step',
   '2019-09-06T21:24:40',('Author'),(''),
   'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));

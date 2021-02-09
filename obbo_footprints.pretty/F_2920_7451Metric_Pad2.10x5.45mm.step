@@ -1,9 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
-FILE_NAME(
-'D:/Work/_Projekty/__Elektronika/_MyLib/KiCad-obbo/obbo_
-footprints.pretty/Fuse_2920_7451Metric_Pad2.10x5.45mm.step',
+FILE_NAME('Fuse_2920_7451Metric_Pad2.10x5.45mm.step',
   '2019-09-07T22:51:58',('Author'),(''),
   'Open CASCADE STEP processor 7.3','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
