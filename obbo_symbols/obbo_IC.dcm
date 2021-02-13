@@ -1,7 +1,37 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LVC161
+D Presettable synchronous 4-bit binary counter; asynchronous reset
+K LVC CMOS CNT4
+F https://assets.nexperia.com/documents/data-sheet/74LVC161.pdf
+$ENDCMP
+#
+$CMP 74LVC163
+D Presettable synchronous 4-bit binary counter; synchronous reset
+K LVC CMOS CNT4
+F https://assets.nexperia.com/documents/data-sheet/74LVC163.pdf
+$ENDCMP
+#
+$CMP AD9951
+D 14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48
+K Direct Digital Synthesizer DDS
+F https://www.analog.com/static/imported-files/data_sheets/AD9951.pdf
+$ENDCMP
+#
+$CMP AD9952
+D 14-Bit Direct Digital Synthesizer with 400MSPS DAC, comparator, 1.8V, TQFP48
+K Direct Digital Synthesizer DDS
+F https://www.analog.com/static/imported-files/data_sheets/AD9952.pdf
+$ENDCMP
+#
+$CMP AD9954
+D 14-Bit Direct Digital Synthesizer with 400MSPS DAC, comparator, RAM, 1.8V, TQFP48
+K Direct Digital Synthesizer DDS
+F https://www.analog.com/static/imported-files/data_sheets/AD9954.pdf
+$ENDCMP
+#
 $CMP LM5117
-D Wide Input Range Synchronous Buck Controller with Analog Current Monitor
+D Wide Input Range Synchronous Buck Controller with Analog Current Monitor, TSSOP
 K step-down buck regulator
 F https://www.ti.com/lit/ds/symlink/lm5117.pdf
 $ENDCMP
@@ -16,6 +46,24 @@ $CMP LTC4011
 D High Efficiency Standalone Nickel Battery Charger for 1 to 16 Cells
 K NiMH NiCd battery
 F https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf
+$ENDCMP
+#
+$CMP MCP4706AxT-E-CH
+D 8-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C Interface, SOT-23-6
+K DAC I2C
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22272C.pdf
+$ENDCMP
+#
+$CMP MCP4716AxT-E-CH
+D 10-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C Interface, SOT-23-6
+K DAC I2C
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22272C.pdf
+$ENDCMP
+#
+$CMP MCP4726AxT-E-CH
+D 12-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C Interface, SOT-23-6
+K DAC I2C
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22272C.pdf
 $ENDCMP
 #
 $CMP TPS54331
