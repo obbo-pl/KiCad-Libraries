@@ -23,7 +23,7 @@ IC:
 
 Module:
 - Arduino MKR1300
-- ESP32-WROVER
+- ESP32-WROVER(-IE)
 
 Oscillator:
 - TCVCXO-I733, TCVCXO-I734

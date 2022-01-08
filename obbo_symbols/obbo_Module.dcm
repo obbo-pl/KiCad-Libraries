@@ -25,21 +25,27 @@ F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp
 $ENDCMP
 #
 $CMP ESP32-WROVER-I
-D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.3-3.6V, onboard antenna, SMD
+D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.3-3.6V, IPEX antenna, SMD
 K RF Radio BT ESP ESP32 Espressif onboard IPEX antenna
 F https://www.espressif.com/sites/default/files/documentation/esp32-wrover_datasheet_en.pdf
 $ENDCMP
 #
 $CMP ESP32-WROVER-IB
-D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, onboard antenna, SMD
+D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, IPEX antenna, SMD
 K RF Radio BT ESP ESP32 Espressif onboard IPEX antenna
 F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
 $ENDCMP
 #
 $CMP ESP32-WROVER-IE
-D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, onboard antenna, SMD
+D ESP32-D0WDQ6 SoC, PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, IPEX antenna, SMD
 K RF Radio BT ESP ESP32 Espressif onboard IPEX antenna
 F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf
+$ENDCMP
+#
+$CMP SEN0168
+D Triple Axis Accelerometer with Bosch BMA220, I2C, Acceleration range:±2g/±4g/±8g/±16g
+K Triple Axis Accelerometer BMA220
+F https://wiki.dfrobot.com/Triple_Axis_Accelerometer_BMA220_Tiny__SKU_SEN0168
 $ENDCMP
 #
 #End Doc Library
