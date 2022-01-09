@@ -1,8 +1,128 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP SM6T
-D Bidirectional Transil SMB, range: from 6.8 V to 220 V
-K diode Transil
+$CMP PESD5V0U1UB
+D Ultra low capacitance unidirectional ESD protection diodes, SOD-523
+K diode unidirectional ESD protection
+F https://assets.nexperia.com/documents/data-sheet/PESD5V0U1UB.pdf
+$ENDCMP
+#
+$CMP SM6T100CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T10CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T12CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T150CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T15CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T18CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T200CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T220CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T22CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T24CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T27CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T30CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T33CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T36CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T39CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T56CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T68CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T6V8CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T75CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T7V5CA
+D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
+K diode TVS
 F https://www.st.com/resource/en/datasheet/sm6t.pdf
 $ENDCMP
 #
