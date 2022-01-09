@@ -49,6 +49,9 @@ Transistors:
 - TSM2318
 
 ### Packages 3D
+Battery Holder:
+- 18650 Keystone KEYS54
+
 Crystal:
 - SMD 5032 4Pin 5.0x3.2mm
 
@@ -62,6 +65,7 @@ Thermistor:
 Inductor:
 - SMD Ferrite X5mm Y5mm H4mm
 - SMD Ferrite X7mm Y7mm H4.5mm
+- FerroCore DJNR6045-S
 
 Module:
 - nRF24L01-GT24
@@ -73,6 +77,7 @@ Connector:
 - PinHeader 3x01 P2.54mm Horizontal
 - Coaxial RF Socket SMT
 - SMA Jack, Edge Mount
+- FFC Hirose FH12-24S-0.5SH
 
 Switch:
 - SMD Rotary switch coded 7x7
