@@ -6,7 +6,8 @@ Connector:
 - AVR-PDI-4
 
 Diode:
-- SM6T
+- SM6TxxCA
+- PESD5V0U1UB
 
 IC:
 - 74LVC161
@@ -72,6 +73,7 @@ Module:
 - u-blox MAX M8
 - Arduino MKR1300
 - ESP32-WROVER
+- DFROBOT SEN0168
 
 Connector:
 - PinHeader 3x01 P2.54mm Horizontal
@@ -80,7 +82,8 @@ Connector:
 - FFC Hirose FH12-24S-0.5SH
 
 Switch:
-- SMD Rotary switch coded 7x7
+- SMD Rotary Switch Coded 7x7
+- Tilt Sensor Switch RBS070410
 
 Terminal Block:
 - Degson DG128-5.0-02P
