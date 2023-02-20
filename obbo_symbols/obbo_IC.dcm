@@ -12,6 +12,36 @@ K LVC CMOS CNT4
 F https://assets.nexperia.com/documents/data-sheet/74LVC163.pdf
 $ENDCMP
 #
+$CMP 74LVC1G74
+D 74LVC1G74, Single D Flip-Flop, Low-Voltage CMOS
+K Single D Flip-Flop D CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP AD8045ARDZ
+D 3 nV/√Hz, Ultralow Distortion, High Speed Op Amp, SOIC-8
+K single opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8045.pdf
+$ENDCMP
+#
+$CMP AD9854ASQZ
+D CMOS, 300 MSPS Quadrature Complete DDS, TQFP-80
+K DDS direct digital synthesizer
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9854.pdf
+$ENDCMP
+#
+$CMP AD9854ASTZ
+D CMOS, 300 MSPS Quadrature Complete DDS, LQFP-80
+K DDS direct digital synthesizer
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9854.pdf
+$ENDCMP
+#
+$CMP AD9854ASVZ
+D CMOS, 300 MSPS Quadrature Complete DDS, TQFP-80
+K DDS direct digital synthesizer
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9854.pdf
+$ENDCMP
+#
 $CMP AD9951
 D 14-Bit Direct Digital Synthesizer with 400MSPS DAC, 1.8V, TQFP48
 K Direct Digital Synthesizer DDS
@@ -28,6 +58,60 @@ $CMP AD9954
 D 14-Bit Direct Digital Synthesizer with 400MSPS DAC, comparator, RAM, 1.8V, TQFP48
 K Direct Digital Synthesizer DDS
 F https://www.analog.com/static/imported-files/data_sheets/AD9954.pdf
+$ENDCMP
+#
+$CMP AS431AR
+D Adjustable precision shunt regulator, tolerance 0.5%, SOT-89
+K diode shunt regulator
+F https://www.diodes.com/assets/Datasheets/AS431.pdf
+$ENDCMP
+#
+$CMP AS431BR
+D Adjustable precision shunt regulator, tolerance 1%, SOT-89
+K diode shunt regulator
+F https://www.diodes.com/assets/Datasheets/AS431.pdf
+$ENDCMP
+#
+$CMP DG2535
+D 0.35Ω Low-Voltage Dual SPDT Analog Switch
+K analog switch
+F https://www.vishay.com/docs/72939/dg2535.pdf
+$ENDCMP
+#
+$CMP KF25BDT-TR
+D 2.5V 500mA Very low drop voltage regulators, DPAK
+K linear regulator LDO fixed positive
+F https://www.st.com/resource/en/datasheet/kfxx.pdf
+$ENDCMP
+#
+$CMP KF33BDT-TR
+D 3.3V 500mA Very low drop voltage regulators, DPAK
+K linear regulator ldo fixed positive
+F https://www.st.com/resource/en/datasheet/kfxx.pdf
+$ENDCMP
+#
+$CMP KF50BDT-TR
+D 5.0V 500mA Very low drop voltage regulators, DPAK
+K linear regulator ldo fixed positive
+F https://www.st.com/resource/en/datasheet/kfxx.pdf
+$ENDCMP
+#
+$CMP KF80BDT-TR
+D 8.0V 500mA Very low drop voltage regulators, DPAK
+K linear regulator ldo fixed positive
+F https://www.st.com/resource/en/datasheet/kfxx.pdf
+$ENDCMP
+#
+$CMP LDFMPT-TR
+D 500 mA very low drop voltage regulator, adjustable, PPAK
+K LDO adjustable
+F https://www.st.com/resource/en/datasheet/ldfm.pdf
+$ENDCMP
+#
+$CMP LM4120
+D 1.8, 2.048, 2.5, 3, 3.3, 4.096, and 5 V, ±0.2% Precision Micropower LDO Voltage Reference, SOT-23-5
+K LDO Voltage Reference Precision
+F https://www.ti.com/lit/ds/symlink/lm4120.pdf
 $ENDCMP
 #
 $CMP LM5117
@@ -48,6 +132,36 @@ K NiMH NiCd battery
 F https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf
 $ENDCMP
 #
+$CMP MCP3021
+D Low-Power 10-Bit A/D Converter with I2C Interface, SOT-23
+K A/D Converter I2C
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20001805C.pdf
+$ENDCMP
+#
+$CMP MCP4631-xxxEST
+D 7-Bit Dual I2C Digital POT with RAM, TSSOP-14
+K Digital Pot Potentiometer I2C
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22096b.pdf
+$ENDCMP
+#
+$CMP MCP4641-xxxEST
+D 7-Bit Dual I2C Digital POT with EE, TSSOP-14
+K Digital Pot Potentiometer I2C
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22096b.pdf
+$ENDCMP
+#
+$CMP MCP4651-xxxEST
+D 8-Bit Dual I2C Digital POT with RAM, TSSOP-14
+K Digital Pot Potentiometer I2C
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22096b.pdf
+$ENDCMP
+#
+$CMP MCP4661-xxxEST
+D 8-Bit Dual I2C Digital POT with EE, TSSOP-14
+K Digital Pot Potentiometer I2C
+F https://ww1.microchip.com/downloads/en/DeviceDoc/22096b.pdf
+$ENDCMP
+#
 $CMP MCP4706AxT-E-CH
 D 8-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C Interface, SOT-23-6
 K DAC I2C
@@ -64,6 +178,84 @@ $CMP MCP4726AxT-E-CH
 D 12-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C Interface, SOT-23-6
 K DAC I2C
 F https://ww1.microchip.com/downloads/en/DeviceDoc/22272C.pdf
+$ENDCMP
+#
+$CMP MCP6V66U
+D Single 80 μA, 1 MHz Zero-Drift Op Amps, SOT-353, SOT-23
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6V66-Family-Data-Sheet-DS20006266A.pdf
+$ENDCMP
+#
+$CMP TC1263-2.5VOA
+D 500mA CMOS LDO with Shutdown, Fixed Output 2.5V, SOIC-8
+K Fixed Voltage Regulator Positive CMOS LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21374D.pdf
+$ENDCMP
+#
+$CMP TC1263-2.8VOA
+D 500mA CMOS LDO with Shutdown, Fixed Output 2.8V, SOIC-8
+K Fixed Voltage Regulator Positive CMOS LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21374D.pdf
+$ENDCMP
+#
+$CMP TC1263-3.0VOA
+D 500mA CMOS LDO with Shutdown, Fixed Output 3.0V, SOIC-8
+K Fixed Voltage Regulator Positive CMOS LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21374D.pdf
+$ENDCMP
+#
+$CMP TC1263-3.3VOA
+D 500mA CMOS LDO with Shutdown, Fixed Output 3.3V, SOIC-8
+K Fixed Voltage Regulator Positive CMOS LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21374D.pdf
+$ENDCMP
+#
+$CMP TC1263-5.0VOA
+D 500mA CMOS LDO with Shutdown, Fixed Output 5.0V, SOIC-8
+K Fixed Voltage Regulator Positive CMOS LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21374D.pdf
+$ENDCMP
+#
+$CMP TL431AIDG
+D Shunt Regulator, Tolerance 1%, TSSOP-8
+K diode device shunt regulator
+F https://www.onsemi.com/pdf/datasheet/tl431-d.pdf
+$ENDCMP
+#
+$CMP TL431BIDG
+D Shunt Regulator, Tolerance 0.4%, TSSOP-8
+K diode device shunt regulator
+F https://www.onsemi.com/pdf/datasheet/tl431-d.pdf
+$ENDCMP
+#
+$CMP TL431IDG
+D Shunt Regulator, Tolerance 2.2%, TSSOP-8
+K diode device shunt regulator
+F https://www.onsemi.com/pdf/datasheet/tl431-d.pdf
+$ENDCMP
+#
+$CMP TLV271CW5-7
+D CMOS RAIL TO RAIL OUTPUT OPERATIONAL AMPLIFIERS, 0 to +70°C
+K CMOS RAIL-TO-RAIL  AMPLIFIERS
+F https://www.diodes.com/assets/Datasheets/TLV27x.pdf
+$ENDCMP
+#
+$CMP TLV271IW5-7
+D CMOS RAIL TO RAIL OUTPUT OPERATIONAL AMPLIFIERS, -40 to +125°C
+K CMOS RAIL-TO-RAIL  AMPLIFIERS
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv2462a
+$ENDCMP
+#
+$CMP TPS54228D
+D 4.5-V to 18-V Input, 2-A Synchronous Step-Down Converter With Eco-Mode, SOIC-8
+K Step Down DC-DC Converter
+F http://www.ti.com/lit/ds/symlink/tps54228.pdf
+$ENDCMP
+#
+$CMP TPS54228DR
+D 4.5-V to 18-V Input, 2-A Synchronous Step-Down Converter With Eco-Mode, SOIC-8
+K Step Down DC-DC Converter
+F http://www.ti.com/lit/ds/symlink/tps54228.pdf
 $ENDCMP
 #
 $CMP TPS54331
