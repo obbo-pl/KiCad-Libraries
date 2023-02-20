@@ -48,6 +48,9 @@ Transistors:
 - IRF7207
 - IRF7313
 - TSM2318
+- Si4483ADY
+- AOD454A
+
 
 ### Packages 3D
 Battery Holder:

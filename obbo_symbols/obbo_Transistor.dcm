@@ -36,6 +36,12 @@ K P-Channel MOSFET
 F http://aosmd.com/res/data_sheets/AOD403.pdf
 $ENDCMP
 #
+$CMP AOD454A
+D N-Channel MOSFET 40V 20A 24mΩ
+K N-Channel MOSFET
+F http://aosmd.com/res/data_sheets/AOD454A.pdf
+$ENDCMP
+#
 $CMP FDS6975
 D Dual P-Channel MOSFET -30V, -6A, 32mΩ
 K P-Channel MOSFET
@@ -58,6 +64,12 @@ $CMP IRF7313
 D Dual N-Channel MOSFET 30V, 6.5A, 29mΩ
 K N-Channel MOSFET
 F http://www.irf.com/part/LEADED-30V-DUAL-N-CHANNEL-HEXFET-POWER-MOSFET-IN-A-SO-8-PACKAGE/_/A~PB-IRF7313
+$ENDCMP
+#
+$CMP Si4483ADY
+D P-Channel MOSFET -30V -19.2A 8mΩ
+K P-Channel MOSFET
+F https://www.vishay.com/docs/68982/si4483ad.pdf
 $ENDCMP
 #
 $CMP TSM2318
