@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RBS070410
+D Tilt Sensor Switch, 45° Tilt Detecting within a 360° radius
+K Tilt Sensor Switch
+F https://www.oncque.com/uploadfiles/553/%E7%94%A2%E5%93%81/%E8%A6%8F%E6%A0%BC%E6%9B%B8/RBS07/RBS070410-15_en_.pdf
+$ENDCMP
+#
 $CMP WirePad
 D Wire Pad
 K Wire Pad

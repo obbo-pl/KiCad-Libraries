@@ -32,6 +32,7 @@ Oscillator:
 Passive:
 - Bead
 - WirePad
+- RBS070410
 
 Transformer:
 - Indel TSZZ 12/0xxM
