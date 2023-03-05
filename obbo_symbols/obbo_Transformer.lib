@@ -4,10 +4,10 @@ EESchema-LIBRARY Version 2.4
 # Indel_TSZZ_12-008M
 #
 DEF Indel_TSZZ_12-008M TR 0 20 Y Y 1 F N
-F0 "TR" 0 400 50 H V C CNN
-F1 "Indel_TSZZ_12-008M" 0 -450 50 H V C CNN
-F2 "obbo_footprints:Transformer_Indel_TSZZ_12VA_Dual_Secondary" 100 -550 50 H I C CIN
-F3 "" 0 0 50 H I C CNN
+F0 "TR" 0 400 50 H V L CNN
+F1 "Indel_TSZZ_12-008M" 0 -450 50 H V L CNN
+F2 "obbo_footprints:Transformer_Indel_TSZZ_12VA_Dual_Secondary" 0 -700 50 H I C CNN
+F3 "" 0 -800 50 H I C CNN
 ALIAS Indel_TSZZ_12-004M Indel_TSZZ_12-016M Indel_TSZZ_12-012M Indel_TSZZ_12-010M
 DRAW
 A -60 -150 30 -899 899 0 1 8 N -60 -180 -60 -120
@@ -43,10 +43,10 @@ ENDDEF
 # Indel_TSZZ_12-015M
 #
 DEF Indel_TSZZ_12-015M TR 0 20 Y Y 1 F N
-F0 "TR" 0 250 50 H V C CNN
-F1 "Indel_TSZZ_12-015M" 0 -300 50 H V C CNN
-F2 "obbo_footprints:Transformer_Indel_TSZZ_12VA_Single_Secondary" 0 -400 50 H I C CIN
-F3 "" 0 0 50 H I C CNN
+F0 "TR" 0 250 50 H V L CNN
+F1 "Indel_TSZZ_12-015M" 0 -300 50 H V L CNN
+F2 "obbo_footprints:Transformer_Indel_TSZZ_12VA_Single_Secondary" 0 -550 50 H I C CNN
+F3 "" 0 -650 50 H I C CNN
 ALIAS Indel_TSZZ_12-009M Indel_TSZZ_12-003M Indel_TSZZ_12-005M Indel_TSZZ_12-007M
 DRAW
 A -60 -150 30 -899 899 0 1 8 N -60 -180 -60 -120

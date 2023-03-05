@@ -4,10 +4,10 @@ EESchema-LIBRARY Version 2.4
 # RBS070410
 #
 DEF RBS070410 S 0 40 Y Y 1 F N
-F0 "S" 0 350 60 H V C CNN
-F1 "RBS070410" 0 250 60 H V C CNN
-F2 "obbo_footprints:TiltSensorSwitch_RBS070410" -500 -350 60 H I C CIN
-F3 "" -500 -250 60 H I C CNN
+F0 "S" 0 350 50 H V L CNN
+F1 "RBS070410" 0 250 50 H V L CNN
+F2 "obbo_footprints:TiltSensorSwitch_RBS070410" 0 -400 50 H I C CNN
+F3 "" 0 -500 50 H I C CNN
 DRAW
 C -100 0 10 0 1 0 F
 C 105 0 10 0 1 0 F
@@ -26,10 +26,10 @@ ENDDEF
 # WirePad
 #
 DEF WirePad TP 0 0 N Y 1 F N
-F0 "TP" -100 50 50 H V R CNN
-F1 "WirePad" 0 -100 50 H V C CNN
-F2 "obbo_footprints:SolderWirePad_single_SMD_3x8mm" 200 200 60 H I L CNN
-F3 "" 200 300 60 H I L CNN
+F0 "TP" -100 50 50 H V L CNN
+F1 "WirePad" 0 -100 50 H V L CNN
+F2 "obbo_footprints:SolderWirePad_single_SMD_3x8mm" 0 -350 50 H I C CNN
+F3 "" 0 -450 50 H I C CNN
 $FPLIST
  pad*
  pin*
@@ -44,10 +44,10 @@ ENDDEF
 # bead
 #
 DEF bead B 0 0 N Y 1 F N
-F0 "B" 0 100 50 H V C CNN
-F1 "bead" 0 -100 50 H V C CNN
-F2 "" 0 0 50 V I C CNN
-F3 "" 0 0 50 V I C CNN
+F0 "B" 0 100 50 H V L CNN
+F1 "bead" 0 -100 50 H V L CNN
+F2 "" 0 -600 50 H I C CNN
+F3 "" 0 -700 50 H I C CNN
 DRAW
 S 100 -40 -100 40 1 1 10 F
 X ~ 1 -150 0 50 R 50 50 1 1 P
