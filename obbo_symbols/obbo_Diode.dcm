@@ -1,5 +1,64 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAV199
+D Low-leakage double diode, SOT-23
+K Diode
+$ENDCMP
+#
+$CMP CM1293A-02SR
+D ESD Protection Array, 2 Channel, Low Capacitance, SOT-143B
+K double ESD protection diode
+F https://www.onsemi.com/pdf/datasheet/cm1293a-d.pdf
+$ENDCMP
+#
+$CMP GBPC35005-W
+D 35A/50V Glass Passivated Single-Phase Bridge Rectifier
+K Rectifier bridge
+F https://www.vishay.com/docs/88612/gbpc12.pdf
+$ENDCMP
+#
+$CMP GBPC3501-W
+D 35A/100V Glass Passivated Single-Phase Bridge Rectifier
+K Rectifier bridge
+F https://www.vishay.com/docs/88612/gbpc12.pdf
+$ENDCMP
+#
+$CMP GBPC3502-W
+D 35A/200V Glass Passivated Single-Phase Bridge Rectifier
+K Rectifier bridge
+F https://www.vishay.com/docs/88612/gbpc12.pdf
+$ENDCMP
+#
+$CMP GBPC3504-W
+D 35A/400V Glass Passivated Single-Phase Bridge Rectifier
+K Rectifier bridge
+F https://www.vishay.com/docs/88612/gbpc12.pdf
+$ENDCMP
+#
+$CMP GBPC3506-W
+D 35A/600V Glass Passivated Single-Phase Bridge Rectifier
+K Rectifier bridge
+F https://www.vishay.com/docs/88612/gbpc12.pdf
+$ENDCMP
+#
+$CMP GBPC3508-W
+D 35A/800V Glass Passivated Single-Phase Bridge Rectifier
+K Rectifier bridge
+F https://www.vishay.com/docs/88612/gbpc12.pdf
+$ENDCMP
+#
+$CMP GBPC3510-W
+D 35A/1000V Glass Passivated Single-Phase Bridge Rectifier
+K Rectifier bridge
+F https://www.vishay.com/docs/88612/gbpc12.pdf
+$ENDCMP
+#
+$CMP PESD2ETH-AX
+D Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143B
+K double ESD protection diode
+F https://assets.nexperia.com/documents/data-sheet/PESD2ETH-AX.pdf
+$ENDCMP
+#
 $CMP PESD5V0U1UB
 D Ultra low capacitance unidirectional ESD protection diodes, SOD-523
 K diode unidirectional ESD protection
@@ -124,6 +183,198 @@ $CMP SM6T7V5CA
 D Bidirectional Transil series range: from 6.8 V to 220 V, SMB
 K diode TVS
 F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SMF10A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF11A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF12A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF13A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF14A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF15A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF16A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF17A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF18A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF20A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF22A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF24A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF26A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF28A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF30A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF33A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF36A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF40A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF43A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF45A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF48A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF51A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF54A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF58A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF5V0A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF6V0A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF6V5A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF7V0A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF7V5A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF8V0A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF8V5A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
+$ENDCMP
+#
+$CMP SMF9V0A
+D Surface Mount ESD Protection Diodes, SMF
+K ESD Protection Diodes
+F https://www.vishay.com/docs/85881/smf5v0atosmf58a.pdf
 $ENDCMP
 #
 #End Doc Library

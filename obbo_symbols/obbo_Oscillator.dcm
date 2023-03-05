@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ISM92
+D ILSI 3.2 mm x 5 mm Ceramic Package SMD Oscillator, TTL / HC-MOS
+K SMD Oscillator TTL MOS
+F https://www.tme.eu/Document/04fa0ef07f38450711886bdf482cf79c/ISM92_Series.pdf
+$ENDCMP
+#
 $CMP TCVCXO-I733
 D ILSI, 3.2 mm x 5.0 mm Ceramic Package SMD TCVCXO Clipped Sinewave
 K Oscillator TCVCXO
